@@ -1,0 +1,48 @@
+Uri: https://venge.io/
+File Name: C:\Downloaded Web Sites\venge.io\index.htm
+Content Type: text/html
+
+Uri: https://venge.io/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\venge.io\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://venge.io/styles.css
+File Name: C:\Downloaded Web Sites\venge.io\styles.css
+Content Type: text/css
+
+Uri: https://venge.io/tos.txt
+File Name: C:\Downloaded Web Sites\venge.io\tos.txt
+Content Type: text/plain
+
+Uri: https://venge.io/adblock.js
+File Name: C:\Downloaded Web Sites\venge.io\adblock.js
+Content Type: application/javascript
+
+Uri: https://venge.io/playcanvas-stable.min.js?v=1.0.88
+File Name: C:\Downloaded Web Sites\venge.io\playcanvas-stable.min.js
+Content Type: application/javascript
+
+Uri: https://venge.io/__settings__.js
+File Name: C:\Downloaded Web Sites\venge.io\__settings__.js
+Content Type: application/javascript
+
+Uri: https://venge.io/__modules__.js
+File Name: C:\Downloaded Web Sites\venge.io\__modules__.js
+Content Type: application/javascript
+
+Uri: https://venge.io/__start__.js
+File Name: C:\Downloaded Web Sites\venge.io\__start__.js
+Content Type: application/javascript
+
+Uri: https://venge.io/__loading__.js?v=2.0
+File Name: C:\Downloaded Web Sites\venge.io\__loading__.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-56170709-45
+File Name: C:\Downloaded Web Sites\venge.io\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://social.venge.io/client
+File Name: C:\Downloaded Web Sites\venge.io\client.html
+Content Type: text/html
+

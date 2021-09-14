@@ -1,0 +1,267 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Venge.io</title>
+
+    <meta name="description" content="Venge is an objective-based first-person shooter. Every match is an intense unique experience with the ability cards that you can get in the game. Play it on browser, no download, and free!">
+
+    <meta name="keywords" content="multiplayer, io, 3D Shooter, objective-based, FPS, no download, browser game, game, web game">
+
+    <link rel="canonical" href="index.htm">
+
+    <link rel="icon" href="favicon-96x96.png" type="image/x-icon">
+    <meta content="https://venge.io/thumbnail.jpg" property="og:image">
+
+    <meta property="og:type" content="website">
+
+    <meta property="og:title" content="Play Venge.io!">
+    <meta property="og:description" content="Click on this link to start a game with your friend! Venge is an objective-based first-person shooter. Play it on browser, no download, and free!">
+
+    <meta property="og:url" content="https://venge.io/">
+    <meta property="og:site_name" content="venge.io">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+    <script type="text/javascript">
+        var VERSION = 'be5a8e';
+        var VERSION_CODE = '1.0.88';
+    </script>
+
+    <script type="text/javascript">
+        var isClient  = false;
+        var referral  = window.location.href;
+        var quantcast = true;
+
+        if(referral && referral.search('poki') > -1){
+            quantcast = false;
+        }
+
+        //try to reach localStorage
+        try{
+            var wasClient = window.localStorage.getItem('client_version');
+
+            if(wasClient){
+                isClient = true;
+            }
+        }catch(e){
+            //not available
+        }
+
+        if(referral.search('client_version') > -1){
+            isClient = true;
+            window.localStorage.setItem('client_version', 'TRUE');
+        }
+
+        if(!isClient){
+            //load poki SDK
+            var pokiScript = document.createElement('script');
+                pokiScript.src = '//game-cdn.poki.com/scripts/v2/poki-sdk.js';
+
+                pokiScript.onload = function(){
+                    //load provider
+                    var providerScript = document.createElement('script');
+                        providerScript.src = 'provider.js?v=' + VERSION_CODE;
+
+                    document.head.appendChild(providerScript);
+                };
+
+            document.head.appendChild(pokiScript);
+        }
+    </script>
+
+    <script type="text/javascript" src="adblock.js"></script>
+    <script src="playcanvas-stable.min.js?v=1.0.88"></script>
+    <script src="__settings__.js"></script>
+
+    <!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+    <script type="text/javascript" async="true">
+        if(!isClient && quantcast){
+            (function() {
+            var host = window.location.hostname;
+            var element = document.createElement('script');
+            var firstScript = document.getElementsByTagName('script')[0];
+            var url = 'https://quantcast.mgr.consensu.org'
+              .concat('/choice/', 'VzKDgYuw-1KTr', '/', host, '/choice.js')
+            var uspTries = 0;
+            var uspTriesLimit = 3;
+            element.async = true;
+            element.type = 'text/javascript';
+            element.src = url;
+
+            firstScript.parentNode.insertBefore(element, firstScript);
+
+            function makeStub() {
+              var TCF_LOCATOR_NAME = '__tcfapiLocator';
+              var queue = [];
+              var win = window;
+              var cmpFrame;
+
+              function addFrame() {
+                var doc = win.document;
+                var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+                if (!otherCMP) {
+                  if (doc.body) {
+                    var iframe = doc.createElement('iframe');
+
+                    iframe.style.cssText = 'display:none';
+                    iframe.name = TCF_LOCATOR_NAME;
+                    doc.body.appendChild(iframe);
+                  } else {
+                    setTimeout(addFrame, 5);
+                  }
+                }
+                return !otherCMP;
+              }
+
+              function tcfAPIHandler() {
+                var gdprApplies;
+                var args = arguments;
+
+                if (!args.length) {
+                  return queue;
+                } else if (args[0] === 'setGdprApplies') {
+                  if (
+                    args.length > 3 &&
+                    args[2] === 2 &&
+                    typeof args[3] === 'boolean'
+                  ) {
+                    gdprApplies = args[3];
+                    if (typeof args[2] === 'function') {
+                      args[2]('set', true);
+                    }
+                  }
+                } else if (args[0] === 'ping') {
+                  var retr = {
+                    gdprApplies: gdprApplies,
+                    cmpLoaded: false,
+                    cmpStatus: 'stub'
+                  };
+
+                  if (typeof args[2] === 'function') {
+                    args[2](retr);
+                  }
+                } else {
+                  queue.push(args);
+                }
+              }
+
+              function postMessageEventHandler(event) {
+                var msgIsString = typeof event.data === 'string';
+                var json = {};
+
+                try {
+                  if (msgIsString) {
+                    json = JSON.parse(event.data);
+                  } else {
+                    json = event.data;
+                  }
+                } catch (ignore) {}
+
+                var payload = json.__tcfapiCall;
+
+                if (payload) {
+                  window.__tcfapi(
+                    payload.command,
+                    payload.version,
+                    function(retValue, success) {
+                      var returnMsg = {
+                        __tcfapiReturn: {
+                          returnValue: retValue,
+                          success: success,
+                          callId: payload.callId
+                        }
+                      };
+                      if (msgIsString) {
+                        returnMsg = JSON.stringify(returnMsg);
+                      }
+                      if (event && event.source && event.source.postMessage) {
+                        event.source.postMessage(returnMsg, '*');
+                      }
+                    },
+                    payload.parameter
+                  );
+                }
+              }
+
+              while (win) {
+                try {
+                  if (win.frames[TCF_LOCATOR_NAME]) {
+                    cmpFrame = win;
+                    break;
+                  }
+                } catch (ignore) {}
+
+                if (win === window.top) {
+                  break;
+                }
+                win = win.parent;
+              }
+              if (!cmpFrame) {
+                addFrame();
+                win.__tcfapi = tcfAPIHandler;
+                win.addEventListener('message', postMessageEventHandler, false);
+              }
+            };
+
+            makeStub();
+
+            var uspStubFunction = function() {
+              var arg = arguments;
+              if (typeof window.__uspapi !== uspStubFunction) {
+                setTimeout(function() {
+                  if (typeof window.__uspapi !== 'undefined') {
+                    window.__uspapi.apply(window.__uspapi, arg);
+                  }
+                }, 500);
+              }
+            };
+
+            var checkIfUspIsReady = function() {
+              uspTries++;
+              if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+                console.warn('USP is not accessible');
+              } else {
+                clearInterval(uspInterval);
+              }
+            };
+
+            if (typeof window.__uspapi === 'undefined') {
+              window.__uspapi = uspStubFunction;
+              var uspInterval = setInterval(checkIfUspIsReady, 6000);
+            }
+            })();
+        }
+    </script>
+    <!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+</head>
+<body>
+    <script src="__modules__.js"></script>
+    <script src="__start__.js"></script>
+    <script src="__loading__.js?v=2.0"></script>
+
+    <div id="preroll"></div>
+
+    <div id="about" style="display: none;">
+        <p>Venge.io is an online shooter where you will be playing against real players from all around the world in an arena. There are several weapons to choose from such as Scar, Shotgun, Tec-9 and even a Sniper rifle!</p>
+
+        <p>You must find the green areas on the map and capture that area before your opponents do. By capturing the area you will receive special skill cards that you can use, to improve your equipment and make you stronger.</p>
+
+        <p>Play different heroes, with different weapons! Create your own games, or join any community made game instantly!</p>
+
+        <a href="tos.txt" target="_blank">Read TOS</a>
+        <a href="client.html" target="_blank">Download Windows Client</a>
+    </div>
+
+    <script async="" src="gtag/js.js?id=UA-56170709-45"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-56170709-45');
+    </script>
+</body>
+</html>

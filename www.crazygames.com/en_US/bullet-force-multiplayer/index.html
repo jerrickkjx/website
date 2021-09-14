@@ -1,0 +1,127 @@
+<!DOCTYPE html><html lang="en"><head><title>Bullet Force Game Files - Crazy Games</title><link href="https://gameframe.crazygames.com/crazygames-gameframe-v1.bundle.js" rel="preload" as="script" /><link href="https://www.crazygames.com/game/bullet-force-multiplayer" rel="canonical" /><meta charset="UTF-8" /><meta name="robots" content="noindex, follow" /><meta name="description" content="The game files for Bullet Force, a free browser game on CrazyGames.com" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Accept-CH" content="DPR" /><meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui" /><style id="pacman-styles">/* purple background */
+body {
+  background-image: linear-gradient(290deg, #3b2b73 55%, #6f2f93, #6f2f93);
+  background-position: center;
+  text-align: center;
+}
+/* for positioning of pacman loader */
+body, html { height: 100%; }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@keyframes rotate_preloadpacman_half_up {
+  0% {
+    transform: rotate(270deg); }
+  50% {
+    transform: rotate(360deg); }
+  100% {
+    transform: rotate(270deg); }
+}
+
+@keyframes rotate_preloadpacman_half_down {
+  0% {
+    transform: rotate(90deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(90deg);
+  }
+}
+
+@keyframes preloadpacman-balls {
+  75% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translate(-100px, -6.25px);
+  }
+}
+
+.preloadpacman {
+  position: relative;
+}
+.preloadpacman > div:nth-child(2) {
+  animation: preloadpacman-balls 1s -0.99s infinite linear;
+}
+.preloadpacman > div:nth-child(3) {
+  animation: preloadpacman-balls 1s -0.66s infinite linear;
+}
+.preloadpacman > div:nth-child(4) {
+  animation: preloadpacman-balls 1s -0.33s infinite linear;
+}
+.preloadpacman > div:nth-child(5) {
+  animation: preloadpacman-balls 1s 0s infinite linear;
+}
+.preloadpacman > div:first-of-type {
+  width: 0px;
+  height: 0px;
+  border-right: 25px solid transparent;
+  border-top: 25px solid #fff;
+  border-left: 25px solid #fff;
+  border-bottom: 25px solid #fff;
+  border-radius: 25px;
+  animation: rotate_preloadpacman_half_up 0.5s 0s infinite;
+  position: relative;
+  left: -30px;
+}
+.preloadpacman > div:nth-child(2) {
+  width: 0px;
+  height: 0px;
+  border-right: 25px solid transparent;
+  border-top: 25px solid #fff;
+  border-left: 25px solid #fff;
+  border-bottom: 25px solid #fff;
+  border-radius: 25px;
+  animation: rotate_preloadpacman_half_down 0.5s 0s infinite;
+  margin-top: -50px;
+  position: relative;
+  left: -30px;
+}
+.preloadpacman > div:nth-child(3),
+.preloadpacman > div:nth-child(4),
+.preloadpacman > div:nth-child(5),
+.preloadpacman > div:nth-child(6) {
+  background-color: #fff;
+  width: 15px;
+  height: 15px;
+  border-radius: 100%;
+  margin: 2px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  transform: translate(0, -6.25px);
+  top: 25px;
+  left: 70px;
+}
+</style></head><body><div class="preloadpacman" id="pacman"><div></div><div></div><div></div><div></div><div></div></div><script type="text/javascript">function loadScript(url, async, callback) {
+  var head = document.head;
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src = url;
+  if(async) {
+    script.async = true;
+  }
+  script.onreadystatechange = callback;
+  script.onload = callback;
+  head.appendChild(script);
+}
+var options = {"loader":"5.6.x","loaderOptions":{"moduleJsonUrl":"https://files.crazygames.com/bullet-force-multiplayer/114/Build/BF_762CrazyGames_prod.json","unityLoaderUrl":"https://files.crazygames.com/unityloaders/UnityLoader-v3.js"},"author":"Blayze Games","thumbnail":"https://images.crazygames.com/games/bullet-force-multiplayer/cover-1588010858655.png?auto=format,compress&q=75&cs=strip&w=360","gameName":"Bullet Force","gameHttps":true,"gameSlug":"bullet-force-multiplayer","gameStatus":"published","showAdOnExternal":"ALWAYS","showAdOnInternal":"DEFAULT","appStoreLink":"https://itunes.apple.com/us/app/bullet-force/id1009134067?mt=8","playStoreLink":"https://play.google.com/store/apps/details?id=com.blayzegames.iosfps","steamStoreLink":null,"disableEmbedding":false,"dollarRate":0.8464032095609706,"upvotes":796081,"downvotes":82757,"releaseDate":"2016-06-06","locale":"en_US","controls":{"mouse":{"left":{"en_US":"Shoot"},"right":{"en_US":"Zoom"},"middle":{"en_US":"Change weapon"}},"keyboard":[{"keys":["WASD"],"label":{"en_US":"Move"}},{"keys":["SPACE"],"label":{"en_US":"Jump"}},{"keys":["SHIFT"],"label":{"en_US":"Run"}},{"keys":["P"],"label":{"en_US":"Pause"}},{"keys":["ENTER"],"label":{"en_US":"Respawn"}},{"keys":["G"],"label":{"en_US":"Throw grenade"}},{"keys":["E"],"label":{"en_US":"Pick up a gun"}},{"keys":["F"],"label":{"en_US":"Use a knife"}},{"keys":["R"],"label":{"en_US":"Reload"}},{"keys":["C"],"label":{"en_US":"Crouch"}},{"keys":["2"],"label":{"en_US":"Change weapon"}},{"keys":["ARROWS"],"label":{"en_US":"Killstreaks"}},{"keys":["TAB"],"label":{"en_US":"Score"}}]},"videoThumbnail":"https://videos.crazygames.com/bullet-force-multiplayer/8/bullet-force-multiplayer-180x111.mp4","video":{"original":"https://videos.crazygames.com/bullet-force-multiplayer/8/bullet-force-multiplayer.mp4","sizes":[{"width":180,"height":111,"location":"https://videos.crazygames.com/bullet-force-multiplayer/8/bullet-force-multiplayer-180x111.mp4"},{"width":360,"height":222,"location":"https://videos.crazygames.com/bullet-force-multiplayer/8/bullet-force-multiplayer-360x222.mp4"},{"width":540,"height":333,"location":"https://videos.crazygames.com/bullet-force-multiplayer/8/bullet-force-multiplayer-540x333.mp4"},{"width":720,"height":444,"location":"https://videos.crazygames.com/bullet-force-multiplayer/8/bullet-force-multiplayer-720x444.mp4"}]},"totalSize":"236 MB","minTimeBetweenMidrollAdsInMs":180000,"minTimeBetweenRewardedAdsInMs":8000,"noMidrollAdInFirstMinutes":1,"noRewardedAdInFirstMinutes":0,"categoryEnSlug":"shooting","tagsEnSlugs":["3d","webgl","arena","with-friends","war","gun","weapon","soldier","multiplayer","first-person-shooter"],"fullscreen":"ADDS_VALUE","orientation":null,"category":"First Person Shooter","categoryLink":"https://www.crazygames.com/t/first-person-shooter","gameLink":"https://www.crazygames.com/game/bullet-force-multiplayer","alternativeGames":[{"category":"Shooting","gameSlug":"forward-assault","gameName":"Forward Assault Remix","rating":8.8,"thumbnail":"https://images.crazygames.com/games/forward-assault/cover-1584185910210.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/forward-assault/1/forward-assault-thumbnail.mp4","gameLink":"https://www.crazygames.com/game/forward-assault","loader":"5.6.x"},{"category":".io","gameSlug":"shellshockersio","gameName":"Shell Shockers","rating":9.2,"thumbnail":"https://images.crazygames.com/shellshockersio/20200825110135/shellshockersio-cover?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/shellshockersio/2/shellshockersio-180x111.mp4","gameLink":"https://www.crazygames.com/game/shellshockersio","loader":"iframe"},{"category":"Shooting","gameSlug":"bot-machines","gameName":"Assault Bots","rating":8.9,"thumbnail":"https://images.crazygames.com/games/bot-machines/cover-1614000389715.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/bot-machines/4/bot-machines-180x111.mp4","gameLink":"https://www.crazygames.com/game/bot-machines","loader":"unity2020"},{"category":"Shooting","gameSlug":"crazy-shooters-2","gameName":"Crazy Shooters 2","rating":9.1,"thumbnail":"https://images.crazygames.com/crazyshooters2.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/crazy-shooters-2/1/crazy-shooters-2-180x111.mp4","gameLink":"https://www.crazygames.com/game/crazy-shooters-2","loader":"5.6.x"},{"category":"Shooting","gameSlug":"crazy-wars","gameName":"Crazy Wars","rating":9,"thumbnail":"https://images.crazygames.com/crazywars.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/crazy-wars/1/crazy-wars-180x111.mp4","gameLink":"https://www.crazygames.com/game/crazy-wars","loader":"5.6.x"},{"category":"Shooting","gameSlug":"masked-forces-crazy-mode","gameName":"Masked Forces Crazy Mode","rating":9.1,"thumbnail":"https://images.crazygames.com/maskedforcescrazymode.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/masked-forces-crazy-mode/1/masked-forces-crazy-mode-180x111.mp4","gameLink":"https://www.crazygames.com/game/masked-forces-crazy-mode","loader":"5.6.x"},{"category":"Shooting","gameSlug":"crazy-shooters","gameName":"Crazy Shooters","rating":9.2,"thumbnail":"https://images.crazygames.com/crazyshooters.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/crazy-shooters/1/crazy-shooters-180x111.mp4","gameLink":"https://www.crazygames.com/game/crazy-shooters","loader":"5.6.x"},{"category":"Shooting","gameSlug":"modern-blocky-paint","gameName":"Modern Blocky Paint","rating":9.3,"thumbnail":"https://images.crazygames.com/modernblockypaintb.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/modern-blocky-paint/2/modern-blocky-paint-180x111.mp4","gameLink":"https://www.crazygames.com/game/modern-blocky-paint","loader":"5.4.x"},{"category":"Shooting","gameSlug":"warmerise-red-vs-blue","gameName":"Warmerise Online","rating":9,"thumbnail":"https://images.crazygames.com/warmeriseredvsblue.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/warmerise-red-vs-blue/1/warmerise-red-vs-blue-180x111.mp4","gameLink":"https://www.crazygames.com/game/warmerise-red-vs-blue","loader":"iframe"},{"category":"Shooting","gameSlug":"pixelar-vehicle-wars","gameName":"Pixelar: Vehicle Wars","rating":9,"thumbnail":"https://images.crazygames.com/pixelarvehiclewars.png?auto=format,compress&q=75&cs=strip&w=360","videoThumbnail":"https://videos.crazygames.com/pixelar-vehicle-warsb.mp4","gameLink":"https://www.crazygames.com/game/pixelar-vehicle-wars","loader":"5.4.x"}],"country":"DE","domainHasNoCMP":false};
+var SDK_READY = false;
+var GF_READY = false;
+var GF_LOAD_CALLED = false;
+loadScript("https://gameframe.crazygames.com/crazygames-gameframe-v1.bundle.js", true, function() {
+    Crazygames.load(options).then(function() {
+      var pacmanWrapper = document.getElementById('pacman');
+      var pacmanStyles = document.getElementById('pacman-styles');
+
+      if (pacmanWrapper && pacmanStyles) {
+        pacmanWrapper.remove();
+        pacmanStyles.remove();
+      }
+    });
+});</script></body></html>

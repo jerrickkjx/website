@@ -1,0 +1,608 @@
+Uri: https://www.crazygames.com/game/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\game\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://images.crazygames.com/games/bullet-force-multiplayer/cover-1588010858655.png?auto=format,compress&q=10&cs=strip&ch=DPR&fit=fill&blur=30&w=540&blend-color=654383ff&blend-mode=normal
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\bullet-force-multiplayer\cover-1588010858655.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/bullet-force-multiplayer/cover-1588010858655.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=360&blend-color=6543837a&blend-mode=normal
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\bullet-force-multiplayer\cover-1588010858655.png-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazygames/cross.png?auto=format,compress&q=50&cs=strip&ch=DPR&w=70
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazygames\cross.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/crazygames/triangle.png?auto=format,compress&q=50&cs=strip&ch=DPR&w=90
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazygames\triangle.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/crazygames/x.png?auto=format,compress&q=50&cs=strip&ch=DPR&w=40
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazygames\x.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/crazygames/zigzag.png?auto=format,compress&q=50&cs=strip&ch=DPR&w=40
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazygames\zigzag.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/crazygames/background.png?auto=format,compress&q=50&cs=strip&ch=DPR
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazygames\background.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazygames/background.png?auto=format,compress&q=10&cs=strip&ch=DPR
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazygames\background.png-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm45xW0.woff
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTUSjIg1_i6t8kCHKm45xW0.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE7g0.woff
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTURjIg1_i6t8kCHKm45_dJE7g0.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gTD_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTURjIg1_i6t8kCHKm45_dJE3gTD_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3g3D_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTURjIg1_i6t8kCHKm45_dJE3g3D_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gbD_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTURjIg1_i6t8kCHKm45_dJE3gbD_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gfD_vx3rCubqg.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTURjIg1_i6t8kCHKm45_dJE3gfD_vx3rCubqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\montserrat\v18\JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/fredokaone/v8/k3kUo8kEI-tA1RRcTZGmTmHC.woff
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\fredokaone\v8\k3kUo8kEI-tA1RRcTZGmTmHC.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/fredokaone/v8/k3kUo8kEI-tA1RRcTZGmTlHGCaen8wf-.woff2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\s\fredokaone\v8\k3kUo8kEI-tA1RRcTZGmTlHGCaen8wf-.woff2
+Content Type: font/woff2
+
+Uri: https://images.crazygames.com/
+File Name: C:\Downloaded Web Sites\www.crazygames.com\index.htm
+Content Type: text/html
+
+Uri: https://www.speelspelletjes.nl/spel/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\spel\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://it.crazygames.com/gioco/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\gioco\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.1001juegos.com/juego/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\juego\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.onlinegame.co.id/game/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\game\bullet-force-multiplayer-1.html
+Content Type: text/html
+
+Uri: https://www.crazygames.fr/jeu/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\jeu\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.com.br/jogos/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\jogos\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.ru/igra/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\igra\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.com.ua/gra/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\gra\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.no/spill/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\spill\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.ro/joc/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\joc\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.fi/peli/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\peli\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.se/spel/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\spel\bullet-force-multiplayer-1.html
+Content Type: text/html
+
+Uri: https://de.crazygames.com/spiele/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\spiele\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://pl.crazygames.com/gra/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\gra\bullet-force-multiplayer-1.html
+Content Type: text/html
+
+Uri: https://gr.crazygames.com/paixnidi/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\paixnidi\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://dk.crazygames.com/spil/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\spil\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.cz/hra/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\hra\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://www.crazygames.hu/jatek/bullet-force-multiplayer
+File Name: C:\Downloaded Web Sites\www.crazygames.com\jatek\bullet-force-multiplayer.html
+Content Type: text/html
+
+Uri: https://images.crazygames.com/games/bullet-force-multiplayer/cover-1588010858655.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=120&h=120&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\bullet-force-multiplayer\cover-1588010858655.png-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/bullet-force-multiplayer/cover-1588010858655.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=152&h=152&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\bullet-force-multiplayer\cover-1588010858655.png-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/bullet-force-multiplayer/cover-1588010858655.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=167&h=167&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\bullet-force-multiplayer\cover-1588010858655.png-4.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/bullet-force-multiplayer/cover-1588010858655.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=180&h=180&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\bullet-force-multiplayer\cover-1588010858655.png-5.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/favicons/favicon-32x32.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=32&h=32&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/apple-icon-57x57.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=57&h=57&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/apple-icon-76x76.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=57&h=57&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/favicon-96x96.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=96&h=96&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/apple-icon-120x120.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=120&h=120&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/android-icon-192x192.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=192&h=192&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/ms-icon-310x310.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=228&h=228&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\ms-icon-310x310.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/apple-icon-152x152.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=152&h=152&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/favicons/apple-icon-180x180.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=180&h=180&fit=crop&crop=entropy
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://www.crazygames.com/game/bullet-force-multiplayer/manifest
+File Name: C:\Downloaded Web Sites\www.crazygames.com\game\bullet-force-multiplayer\manifest.json
+Content Type: application/json
+
+Uri: https://tlx.3lift.com/
+File Name: C:\Downloaded Web Sites\www.crazygames.com\index-2.htm
+Content Type: text/html
+
+Uri: https://images.crazygames.com/favicons/favicon-16x16.png?auto=format,compress&q=90&cs=strip&ch=DPR&w=16&h=16
+File Name: C:\Downloaded Web Sites\www.crazygames.com\favicons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-312835820
+File Name: C:\Downloaded Web Sites\www.crazygames.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.googleoptimize.com/optimize.js?id=OPT-M2NH6M2
+File Name: C:\Downloaded Web Sites\www.crazygames.com\optimize.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/polyfills-b69b38e0e606287ba003.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\polyfills-b69b38e0e606287ba003.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/436.d00a16534f1172d4835e.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\436.d00a16534f1172d4835e.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/7698.c595e82b184c7c3ce878.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\7698.c595e82b184c7c3ce878.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/webpack-f81bf4180b721a961625.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\webpack-f81bf4180b721a961625.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/framework-336caa3f6419768205fe.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\framework-336caa3f6419768205fe.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/main-03a8aee3c9b7887662df.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\main-03a8aee3c9b7887662df.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/pages/_app-799584d5f50a61b66559.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\pages\_app-799584d5f50a61b66559.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/6179-7212de3f2f8328307767.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\6179-7212de3f2f8328307767.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/8061-3f50400d1451acf7259b.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\8061-3f50400d1451acf7259b.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/4504-a057f25d8265e9653cba.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\4504-a057f25d8265e9653cba.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/7173-c202d22ee11fa7eb19b8.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\7173-c202d22ee11fa7eb19b8.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/637-e7be2f6d081495031dd9.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\637-e7be2f6d081495031dd9.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/3759-904b5b5825225404ece8.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\3759-904b5b5825225404ece8.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/chunks/pages/game-cc1d2c0d0ae8e7072b6b.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\chunks\pages\game-cc1d2c0d0ae8e7072b6b.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/1630916380/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\1630916380\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://builds.crazygames.com/portal/_next/static/1630916380/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.crazygames.com\portal\_next\static\1630916380\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://games.crazygames.com/en_US/bullet-force-multiplayer/index.html
+File Name: C:\Downloaded Web Sites\www.crazygames.com\en_US\bullet-force-multiplayer\index.html
+Content Type: text/html
+
+Uri: https://images.crazygames.com/games/forward-assault/cover-1584185910210.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\forward-assault\cover-1584185910210.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/combatreloadedb.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\combatreloadedb.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/mazeplanet3d.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\mazeplanet3d.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/webgltagimage.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\webgltagimage.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/spinzio.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\spinzio.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/tags/with-friends/thumb-1586497904286.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\tags\with-friends\thumb-1586497904286.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/strikeforceheroes2.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\strikeforceheroes2.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/pixelgunapocalypse6.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\pixelgunapocalypse6.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/zombopocalypse2c.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\zombopocalypse2c.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/maskedforces.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\maskedforces.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/agariob.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=76
+File Name: C:\Downloaded Web Sites\www.crazygames.com\agariob.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/shellshockersio/20200825110135/shellshockersio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\shellshockersio\20200825110135\shellshockersio-cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/bot-machines/cover-1614000389715.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\bot-machines\cover-1614000389715.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazyshooters2.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazyshooters2.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazywars.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazywars.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/maskedforcescrazymode.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\maskedforcescrazymode.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazyshooters.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazyshooters.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/modernblockypaintb.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\modernblockypaintb.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/warmeriseredvsblue.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\warmeriseredvsblue.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/pixelarvehiclewars.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\pixelarvehiclewars.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/krunker-io/cover-1591336739727.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\krunker-io\cover-1591336739727.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/elitemarinesonline.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\elitemarinesonline.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/war-brokers-io/cover-1588155718344.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\war-brokers-io\cover-1588155718344.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/blockpixelgunapocalypse3.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\blockpixelgunapocalypse3.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/toonoffb.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\toonoffb.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/supersergeantshooter.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\supersergeantshooter.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/goodguysvsbadboysb.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\goodguysvsbadboysb.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/xtreme-paintball-wars/thumb-1555073890626.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\xtreme-paintball-wars\thumb-1555073890626.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/rebel-forces.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\rebel-forces.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/madboss.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\madboss.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/battleswatvsmercenaryb.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\battleswatvsmercenaryb.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/merc-zone/cover-1614702000604.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\merc-zone\cover-1614702000604.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/pixelherowarfare.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\pixelherowarfare.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/realisticzombiesurvivalwarfare.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\realisticzombiesurvivalwarfare.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/pixelwarsofhero.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\pixelwarsofhero.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/armycombat2.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\armycombat2.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/criticalstrikeglobalops.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\criticalstrikeglobalops.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/maskedforces.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\maskedforces.png-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/sureshot.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\sureshot.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/cs-strike-cold-shooters.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\cs-strike-cold-shooters.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/downtown-1930s-mafia/20201106164225/downtown-1930s-mafia-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\downtown-1930s-mafia\20201106164225\downtown-1930s-mafia-cover.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/project-counter-assault-online/20210219102517/project-counter-assault-online-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\project-counter-assault-online\20210219102517\project-counter-assault-online-cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazypixelgunapocalypse4.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazypixelgunapocalypse4.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/zumbieblockylandb.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\zumbieblockylandb.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/plated-glory/thumb-1591174079471.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\plated-glory\thumb-1591174079471.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/wasteland-shooters.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\wasteland-shooters.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/maskedforces3.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\maskedforces3.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/deathmatchcombatb.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\deathmatchcombatb.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/fastpixelbullet.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\fastpixelbullet.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/soldierchallengemultiplayer.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\soldierchallengemultiplayer.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/callofops.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\callofops.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/strikecombatpixelarena3d.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\strikecombatpixelarena3d.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/advancedblockpaintball.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\advancedblockpaintball.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/multigunarenamultiplayer.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\multigunarenamultiplayer.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/repuls-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\repuls-cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/blockycombatswatedged.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\blockycombatswatedged.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/kogamawar4.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\kogamawar4.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazypixelapocalypse.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazypixelapocalypse.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazyshootfactory.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazyshootfactory.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/killstreak-tv/20210311100553/killstreak-tv-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\killstreak-tv\20210311100553\killstreak-tv-cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/galaxyfightmultiplayer.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\galaxyfightmultiplayer.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/galactic-first-person-2?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\galactic-first-person-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/crazypixelcombatsquad.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazypixelcombatsquad.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/air-wars-3-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\air-wars-3-cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/assault-force-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\assault-force-cover.png
+Content Type: image/png
+
+Uri: https://images.crazygames.com/crazy-toon-forces?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\crazy-toon-forces.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/metrage/thumb-1562259732086.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\metrage\thumb-1562259732086.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/grassbattlefield.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\grassbattlefield.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/combatstrike.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\combatstrike.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/pixel-gun-3d/thumb-1563607752320.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\pixel-gun-3d\thumb-1563607752320.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/games/zombsroyaleio/cover-1587299840102.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\games\zombsroyaleio\cover-1587299840102.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/borderofinsanity.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\borderofinsanity.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/thedrearydesertsmarvellousmountain-adventurebox.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\thedrearydesertsmarvellousmountain-adventurebox.png.jpeg
+Content Type: image/jpeg
+
+Uri: https://images.crazygames.com/buildnow-gg/20210823164305/buildnow-gg-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=178&h=100&fit=crop
+File Name: C:\Downloaded Web Sites\www.crazygames.com\buildnow-gg\20210823164305\buildnow-gg-cover.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.xandr.com/
+File Name: C:\Downloaded Web Sites\www.crazygames.com\index-1.htm
+Content Type: text/html
+
